@@ -13,4 +13,5 @@ script that lists all files (even ones with names beginning with a period charac
 Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long forma..
 script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
 script that moves all files 
-script that deletes all files in the current working directory.
+script that deletes all files in the current working directory
+script that creates the directories.
