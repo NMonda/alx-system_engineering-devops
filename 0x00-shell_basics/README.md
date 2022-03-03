@@ -15,3 +15,4 @@ script that prints the type of the file named iamafile. The file iamafile will b
 script that moves all files 
 script that deletes all files in the current working directory
 script that creates the directories.nd that lists all the files and directories
+magic file school.mgc
